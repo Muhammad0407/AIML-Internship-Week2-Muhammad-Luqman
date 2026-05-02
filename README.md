@@ -1,8 +1,8 @@
 # 📊 AI / Data Science Internship Project — Week 2
 ---
 
-👨‍🎓 **Author:** Muhammad Luqman
-📅 **Week:** 2
+👨‍🎓 **Author:** Muhammad Luqman                     
+📅 **Week:** 2                          
 📁 **Project Type:** EDA + Data Cleaning + Feature Engineering + ML Readiness
 
 ---
